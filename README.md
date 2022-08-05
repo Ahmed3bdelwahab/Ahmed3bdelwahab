@@ -4,15 +4,15 @@
 <img alt="Ahmed's LinkdeIn" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://twitter.com/N3dell" target="_blank">
-<img alt="Nour's Twitter" src="https://img.shields.io/badge/Nour Adel-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://twitter.com/Ahmed20104881" target="_blank">
+<img alt="Nour's Twitter" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
 <a href="mailto:20201700061@cis.asu.edu.eg" target="_blank">
 <img alt="Ahmed's Gmail"src="https://img.shields.io/badge/nour3del145@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="20201700061@cis.asu.edu.eg">
 </a>
  <a href="https://www.instagram.com/ahmed_abdelwahab7/" target="_blank">
- <img alt="Ahmed's Instagram" src="https://img.shields.io/badge/ahmed_abdelwahab7-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E
+ <img alt="Ahmed's Instagram" src="https://img.shields.io/badge/ahmed_abdelwahab7-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E"
 
 </a>
 
