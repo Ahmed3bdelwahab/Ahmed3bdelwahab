@@ -19,12 +19,13 @@
 <br />
 <br />
 
+<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
 
 
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
 - 📚 passionate to try new things. 
 - 👨🏽‍💻 I'm passionate about open source. 
-- 📌  Lives in Obour City, Egypt.
+- 📌  Lives in El-matrya City, Egypt.
 
 ### 👨🏻‍💻 Languages and Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
@@ -46,7 +47,7 @@
 
 <br />
 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3bdelwahab&layout=compact&card_width=450&theme=radical )](https://github.com/Ahmed3bdelwahab/github-readme-stats)
