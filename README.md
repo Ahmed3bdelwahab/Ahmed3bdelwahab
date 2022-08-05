@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmed Abdelwahab 👋
 
- <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+ 
 
 <a href="https://www.linkedin.com/in/ahmed-abdelwahab-644340244/" target="_blank">
 <img alt="Ahmed's LinkdeIn" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-
+<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
 
 
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
