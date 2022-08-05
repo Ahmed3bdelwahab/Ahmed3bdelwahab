@@ -15,11 +15,11 @@
  <img alt="Ahmed's Instagram" src="https://img.shields.io/badge/ahmed_abdelwahab7-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E"
 
 </a>
-
+ <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
 <br />
 <br />
 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+
 
 
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
