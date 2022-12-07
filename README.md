@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed Abdelwahab 👋
+## Hi, I'm Nour 👋
 
  
 <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
@@ -35,19 +35,12 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />]()
-[<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]()
 
 
 
 
 
-<br />
-<br />
 
-### 📈 Stats:
-[![Ahmed Abdelwahab's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed3bdelwahab&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Ahmed3bdelwahab?tab=repositories)
-
-<br />
 
 
 
