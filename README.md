@@ -8,10 +8,10 @@
 </a>
 
 <a href="https://twitter.com/Ahmed20104881" target="_blank">
-<img alt="Nour's Twitter" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+<img alt="Ahmed's Twitter" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
-<a href="mailto:ahmadmandoo6@gmail.com" target="_blank">
+<a href="mailto:ahmed.abdelwahab.abdelfatah@gmail.com" target="_blank">
 <img alt="Ahmed's Gmail"src="https://img.shields.io/badge/ahmadmandoo6@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ahmadmandoo6@gmail.com">
 </a>
  <a href="https://www.instagram.com/ahmed_abdelwahab7/" target="_blank">
@@ -24,7 +24,7 @@
 
 
 
-### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
+### I am a junior Software Tester graduated from Faculty of Computer Science and Information Technology at Ain-Shams University,
 - 📚 passionate to try new things. 
 - 👨🏽‍💻 I'm passionate about open source. 
 - 📌  Lives in El-matrya City, Egypt.
