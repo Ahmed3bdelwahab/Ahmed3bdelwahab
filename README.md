@@ -12,7 +12,7 @@
 </a>
 
 <a href="mailto:ahmed.abdelwahab.abdelfatah@gmail.com" target="_blank">
-<img alt="Ahmed's Gmail"src="https://img.shields.io/badge/ahmadmandoo6@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ahmadmandoo6@gmail.com">
+<img alt="Ahmed's Gmail"src="https://img.shields.io/badge/ahmed.abdelwahab.abdelfatah@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ahmed.abdelwahab.abdelfatah@gmail.com">
 </a>
  <a href="https://www.instagram.com/ahmed_abdelwahab7/" target="_blank">
  <img alt="Ahmed's Instagram" src="https://img.shields.io/badge/ahmed_abdelwahab7-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E"
