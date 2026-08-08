@@ -24,4 +24,4 @@ I test software by hand and build the frameworks that test it automatically — 
 - **[Automation-Exercise-Selenium-TestNG](https://github.com/Ahmed3bdelwahab/Automation-Exercise-Selenium-TestNG)** — Selenium/TestNG framework for an e-commerce site, with data-driven testing, Allure reporting, and GitHub Actions CI/CD.
 - **[ahmed-abdelwahab-portfolio](https://github.com/Ahmed3bdelwahab/ahmed-abdelwahab-portfolio)** — My personal QA portfolio site.
 
-📄 **[ISTQB Certified Tester – Foundation Level (CTFL)](https://github.com/Ahmed3bdelwahab)** · Certificate No. 260329011
+📄 **ISTQB Certified Tester – Foundation Level (CTFL)** · Certificate No. 260329011
