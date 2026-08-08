@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Abdelwahab 👋
 
-**ISTQB® Certified Software Quality Engineer** — Manual & Automation Testing
+**ISTQB® Certified QA Engineer | Manual + Automation Testing | Selenium, TestNG, CI/CD | Open to work
 
 [![Email](https://img.shields.io/badge/Email-ahmed.abdelwahab.abdelfatah%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmed.abdelwahab.abdelfatah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelwahab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelwahab-/)
