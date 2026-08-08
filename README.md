@@ -1,55 +1,27 @@
-## Hi, I'm Ahmed Abdelwahab 👋
+# Hi, I'm Ahmed Abdelwahab 👋
 
- 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+**ISTQB® Certified Software Quality Engineer** — Manual & Automation Testing
 
-<a href="https://www.linkedin.com/in/ahmed-abdelwahab-644340244/" target="_blank">
-<img alt="Ahmed's LinkdeIn" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![Email](https://img.shields.io/badge/Email-ahmed.abdelwahab.abdelfatah%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmed.abdelwahab.abdelfatah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelwahab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelwahab-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view%20site-1F3864?style=flat&logo=googlechrome&logoColor=white)](https://ahmed3bdelwahab.github.io/ahmed-abdelwahab-portfolio/)
 
-<a href="https://twitter.com/Ahmed20104881" target="_blank">
-<img alt="Ahmed's Twitter" src="https://img.shields.io/badge/Ahmed-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+I test software by hand and build the frameworks that test it automatically — comfortable owning a bug from discovery on Jira to a green checkmark in a CI/CD pipeline.
 
-<a href="mailto:ahmed.abdelwahab.abdelfatah@gmail.com" target="_blank">
-<img alt="Ahmed's Gmail"src="https://img.shields.io/badge/ahmed.abdelwahab.abdelfatah@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ahmed.abdelwahab.abdelfatah@gmail.com">
-</a>
- <a href="https://www.instagram.com/ahmed_abdelwahab7/" target="_blank">
- <img alt="Ahmed's Instagram" src="https://img.shields.io/badge/ahmed_abdelwahab7-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E"
+- 🔍 **Manual Testing** — test case design, execution, and defect tracking (Jira)
+- 🤖 **Automation** — Selenium WebDriver, TestNG, Page Object Model & other design patterns
+- ⚙️ **CI/CD** — GitHub Actions pipelines for cross-browser, cross-platform regression testing
+- 📊 **Reporting & Logging** — Allure Reports, Log4j
+- 🚀 **Performance & API Testing** — Apache JMeter, Postman
+- 📍 Based in Cairo, Egypt — open to remote work
 
-</a>
+## 🛠️ Tech Stack
 
-<br />
-<br />
+`Java` `Selenium` `TestNG` `Cucumber` `Allure` `Log4j` `GitHub Actions` `Apache JMeter` `Postman` `SQL` `Git`
 
+## 📌 Featured Projects
 
+- **[Automation-Exercise-Selenium-TestNG](https://github.com/Ahmed3bdelwahab/Automation-Exercise-Selenium-TestNG)** — Selenium/TestNG framework for an e-commerce site, with data-driven testing, Allure reporting, and GitHub Actions CI/CD.
+- **[ahmed-abdelwahab-portfolio](https://github.com/Ahmed3bdelwahab/ahmed-abdelwahab-portfolio)** — My personal QA portfolio site.
 
-### I am a junior Software Tester graduated from Faculty of Computer Science and Information Technology at Ain-Shams University,
-- 📚 passionate to try new things. 
-- 👨🏽‍💻 I'm passionate about open source. 
-- 📌  Lives in El-matrya City, Egypt.
-
-### 👨🏻‍💻 Languages and Skills:
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
-[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />]()
-[<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]()
-
-
-
-
-
-<br />
-<br />
-
-### 📈 Stats:
-[![Ahmed Abdelwahab's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed3bdelwahab&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Ahmed3bdelwahab?tab=repositories)
-
-<br />
-
-
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3bdelwahab&layout=compact&card_width=450&theme=radical )](https://github.com/Ahmed3bdelwahab/github-readme-stats)
+📄 **[ISTQB Certified Tester – Foundation Level (CTFL)](https://github.com/Ahmed3bdelwahab)** · Certificate No. 260329011
